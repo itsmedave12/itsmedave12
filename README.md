@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Nice to see you.</h1>
 
-Im **Christian Dave G. Cabiladas** also known as **christiandave**, and I'm a **top GitHub committer** with 3 years of expertise in **Security and Web development**. I'd want to educate new programmers how to understand their route and design a suitable roadmap so that they may become IT professionals. My main objective is to enable young programmers in the Philippines have access to inexpensive learning materials.<br><br>
+Im **Christian Dave G. Cabiladas** also known as **christiandave**, and I'm a **top GitHub committer** with 3 years of expertise in **Web Development**. I'd want to educate new programmers how to understand their route and design a suitable roadmap so that they may become IT professionals. My main objective is to enable young programmers in the Philippines have access to inexpensive learning materials.<br><br>
 
 
 
