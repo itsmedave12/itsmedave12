@@ -11,8 +11,8 @@ Im **Christian Dave G. Cabiladas** also known as **christiandave**, and I'm a **
 ### Current Status Quo:
 
 - 💼 Full-Stack <strong>React.js/ Node.js Developer</strong>.
-- 🔍 I’m looking for connections in <strong>Web Development and Cyber Security</strong> Industry.
-- 💬 Feel free to discuss with me about <strong>Cyber Security, Web Development, NFT Projects</strong>
+- 🔍 I’m looking for connections in <strong>Web Development</strong> Industry.
+- 💬 Feel free to discuss with me about <strong>Web Development, NFT Projects</strong>
 
 ### Tools I work upon : 🛠
 
