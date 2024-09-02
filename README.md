@@ -9,7 +9,7 @@ Im **Christian Dave G. Cabiladas** also known as **christiandave**, and I'm a **
 <img src="https://img.shields.io/badge/-christiandavecabiladas@gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a> 
 ### Current Status Quo:
 
-- 💼 Full-Stack <strong>React.js/ Node.js Developer</strong>.
+- 💼 Full-Stack <strong>Next.js/ Node.js Developer/ Daisy UI</strong>.
 - 🔍 I’m looking for connections in <strong>Web Development</strong> Industry.
 - 💬 Feel free to discuss with me about <strong>Web Development, NFT Projects</strong>
 
